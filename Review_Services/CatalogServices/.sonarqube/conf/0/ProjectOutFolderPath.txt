@@ -1,0 +1,1 @@
+D:\Microservices Solution\Review_Services\CatalogServices\.sonarqube\out\0

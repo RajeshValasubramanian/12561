@@ -1,0 +1,6 @@
+projectKey=FeedbackServices_
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=FeedbackServices_
+ceTaskId=98725f30-de68-4e59-9535-8fc4097cfdac
+ceTaskUrl=http://localhost:9000/api/ce/task?id=98725f30-de68-4e59-9535-8fc4097cfdac
