@@ -1,5 +1,5 @@
 ﻿using Services.Model;
-using System.Collections.Generic;
+
 using Microsoft.EntityFrameworkCore;
 namespace Services.Data
 {

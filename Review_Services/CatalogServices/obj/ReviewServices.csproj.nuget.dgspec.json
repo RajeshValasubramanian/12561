@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microservices Solution\\Review_Services\\CatalogServices\\ReviewServices.csproj": {}
+    "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\ReviewServices.csproj": {}
   },
   "projects": {
-    "D:\\Microservices Solution\\Review_Services\\CatalogServices\\ReviewServices.csproj": {
+    "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\ReviewServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\ReviewServices.csproj",
+        "projectUniqueName": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\ReviewServices.csproj",
         "projectName": "ReviewServices",
-        "projectPath": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\ReviewServices.csproj",
+        "projectPath": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\ReviewServices.csproj",
         "packagesPath": "C:\\Users\\rajesh.v\\.nuget\\packages\\",
-        "outputPath": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\obj\\",
+        "outputPath": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

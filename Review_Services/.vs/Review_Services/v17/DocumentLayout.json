@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Microservices Solution\\Review_Services\\",
+  "WorkspaceRootPath": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|c:\\users\\rajesh.v\\desktop\\git\\12561\\review_services\\catalogservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|c:\\users\\rajesh.v\\desktop\\git\\12561\\review_services\\catalogservices\\controller\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\controller\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\controller\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\controller\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|c:\\users\\rajesh.v\\desktop\\git\\12561\\review_services\\catalogservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|c:\\users\\rajesh.v\\desktop\\git\\12561\\review_services\\catalogservices\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|c:\\users\\rajesh.v\\desktop\\git\\12561\\review_services\\catalogservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,72 +38,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "CatalogServices\\Data\\AppDBContext.cs",
-              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Data\\AppDBContext.cs",
-              "RelativeToolTip": "CatalogServices\\Data\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T09:15:15.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\appsettings.json",
-              "RelativeDocumentMoniker": "CatalogServices\\appsettings.json",
-              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\appsettings.json",
-              "RelativeToolTip": "CatalogServices\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-01T09:10:40.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReviewsController.cs",
-              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Controller\\ReviewsController.cs",
-              "RelativeDocumentMoniker": "CatalogServices\\Controller\\ReviewsController.cs",
-              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Controller\\ReviewsController.cs",
-              "RelativeToolTip": "CatalogServices\\Controller\\ReviewsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAcAAAAUAAAAAAAAAA==",
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "CatalogServices\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "CatalogServices\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T08:29:34.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T09:15:15.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\appsettings.json",
+              "RelativeDocumentMoniker": "CatalogServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\appsettings.json",
+              "RelativeToolTip": "CatalogServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-01T09:10:40.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Controller\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "CatalogServices\\Controller\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Controller\\ReviewsController.cs",
+              "RelativeToolTip": "CatalogServices\\Controller\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:29:34.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Program.cs",
               "RelativeDocumentMoniker": "CatalogServices\\Program.cs",
-              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Program.cs",
+              "ToolTip": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Program.cs",
               "RelativeToolTip": "CatalogServices\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T08:21:05.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Review.cs",
-              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Model\\Review.cs",
+              "DocumentMoniker": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Model\\Review.cs",
               "RelativeDocumentMoniker": "CatalogServices\\Model\\Review.cs",
-              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Model\\Review.cs",
+              "ToolTip": "C:\\Users\\rajesh.v\\Desktop\\GIT\\12561\\Review_Services\\CatalogServices\\Model\\Review.cs",
               "RelativeToolTip": "CatalogServices\\Model\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T08:09:58.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T08:09:58.218Z"
             }
           ]
         }

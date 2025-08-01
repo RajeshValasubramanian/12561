@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Services.Data;
@@ -13,13 +9,21 @@ namespace CatalogServices.Controller
     [Route("api/[controller]")]
     [ApiController]
     public class ReviewsController : ControllerBase
+        
     {
+        /// <summary>
+        /// private variable to interact with tables and classes
+        /// </summary>
         private readonly AppDBContext _context;
 
         public ReviewsController(AppDBContext context)
         {
             _context = context;
         }
+        /// <summary>
+        /// Methods to interact with database and create, delete and fetching records
+        /// </summary>
+        /// <returns></returns>
 
         // GET: api/Reviews
         [HttpGet]
